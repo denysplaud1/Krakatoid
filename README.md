@@ -3,6 +3,10 @@ Denys Plaud <denys.plaud1@gmail.com>
 Krakatoid
 Denys Plaud <denys.plaud1@gmail.com> 7 avril 2019 à 16:20
 À : Denys Plaud <denys.plaud1@gmail.com>
+Voici le lien pour télécharger mon appli Krakatoid, une pie qui fait du bruit, au hasard des mouvements ou vibrations du téléphone !
+https://drive.google.com/file/d/161jn_ac9-DGUrXROMZsmmZugKIwoAK8a/view?usp=sharing
+
+
 package com.denysplaud.krakatoid;
 
 // Krakatoid s'est envolé samedi 6 avril 2019...
